@@ -1,1 +1,1 @@
-# Resultado3
+# Resultado 3 - Duración de las cuarentenas 
