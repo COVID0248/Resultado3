@@ -7,4 +7,5 @@ Este repositório incluye todo lo necesário para la reprodución del [Resultado
   * long_data.csv: conjunto de datos usado en el modelo de sobrevivencia con covariables dependientes del tiempo.
 
 * Carpeta **Report**:
-  * Resultado3_Epicovid.pdf: informe donde se describe los datos, el modelo y los resultados obtenidos.
+  * Resultado3_Epicovid_ES.pdf: informe donde se describe los datos, el modelo y los resultados obtenidos;
+  * Result3_Epicovid_EN.pdf: reporte with description of dataset, statistical modeling, and results.
