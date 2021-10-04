@@ -8,4 +8,4 @@ Este repositório incluye todo lo necesário para la reprodución del [Resultado
 
 * Carpeta **Report**:
   * resultado3_epicovid_es.pdf: informe donde se describe los datos, el modelo y los resultados obtenidos;
-  * result3_epicovid_en.pdf: report containing description of dataset, statistical modeling, and results.
+  * resultado3_epicovid_en.pdf: report containing description of dataset, statistical modeling, and results.
